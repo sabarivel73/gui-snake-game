@@ -1,2 +1,2 @@
 # gui-snake-game
-This is complete GUI snake game by using c++ &amp; SFML 
+This is a complete GUI snake game by using c++ &amp; SFML 
